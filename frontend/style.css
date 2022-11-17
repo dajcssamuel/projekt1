@@ -1,0 +1,42 @@
+h1{
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.menu-flex a {
+    text-decoration: none;
+    background-color: rgb(236, 9, 9);
+    border: 1px solid #000;
+    border-radius: 10%;
+    padding: 2px;
+    font-size: 20px;
+    display: inline-block;
+    width: 110px;
+    text-align: center;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+.tabl{
+    padding-left: 70px;
+    background-image: url('p.png');
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    padding-bottom: 300px;
+}
+
+
+.q{
+    color: red;
+    font-weight: bold;
+}
+.focim{
+    background-color: rgb(203, 60, 38);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    text-align: center;
+}
